@@ -1,0 +1,7 @@
+{
+  "name": "Smart City Dashboard",
+  "description": "A comprehensive AI-powered Smart City monitoring system featuring Traffic, Air, Water, and Electricity analytics with real-time alerts and forecasting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
